@@ -101,10 +101,12 @@ article {
   }
 
   article {
-    margin: 1em 1.9em 1em 1em;
+    margin: 1em 2.5em 1em 1em;
+    max-width: 45%;
   }
 
   .img-flex {
-    margin-top: 1em;
+    margin-top: 1.5em;
+    max-width: 50%;
   }
 }
