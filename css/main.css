@@ -75,7 +75,7 @@ section {
 
 article {
   width: 42%;
-  margin: 1em;
+  margin: 1em .7em 1em 1em;
   display: inline-block;
 }
 
@@ -84,6 +84,7 @@ article {
 }
 
 .img-flex {
-  width: 50%;
+  width: 51%;
+  padding-top: 0;
 }
 }
