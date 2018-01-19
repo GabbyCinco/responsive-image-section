@@ -95,4 +95,16 @@ article {
     font-size: 120%;
     line-height: 1.5;
   }
+
+  section {
+    vertical-align: top;
+  }
+
+  article {
+    margin: 1em 1.9em 1em 1em;
+  }
+
+  .img-flex {
+    margin-top: 1em;
+  }
 }
