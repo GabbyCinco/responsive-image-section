@@ -102,11 +102,26 @@ article {
 
   article {
     margin: 1em 2.5em 1em 1em;
-    max-width: 30em;
+    width: 45%;
   }
 
   .img-flex {
     margin-top: 1.5em;
-    max-width: 25em;
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  section {
+    text-align: center;
+  }
+
+  article {
+    max-width: 30%;
+  }
+
+  .img-flex {
+    max-width: 30em;
   }
 }
