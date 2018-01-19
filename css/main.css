@@ -20,7 +20,7 @@ html {
   box-sizing: inherit;
 }
 
-img {
+.img-flex {
   display: inline-block;
   width: 100%;
 }
